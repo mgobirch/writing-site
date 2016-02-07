@@ -1,4 +1,9 @@
-== README
+Writing Site
+==
+
+This goal of this site is to create a collaborative submission and commenting
+environment for writers with a variety of group types and submission styles to
+suit a variety of comfort levels and goals.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
